@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-
+//@web added in titles to tag and run specific tests
 test("@web to login and validate text content", async ({page}) =>{
 
    await page.goto("https://rahulshettyacademy.com/client");
