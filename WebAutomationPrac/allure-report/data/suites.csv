@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 22 15:43:21 IST 2023","Thu Jun 22 15:43:42 IST 2023","20469","chromium","","","","","@web checking misc validations",""
+"passed","Thu Jun 22 15:32:02 IST 2023","Thu Jun 22 15:32:11 IST 2023","8981","chromium","","","","","to check dynamic error msgs",""
+"passed","Thu Jun 22 15:43:21 IST 2023","Thu Jun 22 15:43:32 IST 2023","11002","chromium","","","","","@web to check title of page",""
+"passed","Thu Jun 22 15:43:44 IST 2023","Thu Jun 22 15:43:49 IST 2023","5349","chromium","","","","","@web validated UI checkboxes",""
+"passed","Thu Jun 22 15:43:32 IST 2023","Thu Jun 22 15:43:39 IST 2023","6504","chromium","","","","","@web to check dynamic error msgs",""
+"failed","Thu Jun 22 15:43:21 IST 2023","Thu Jun 22 15:43:43 IST 2023","21469","chromium","","","","","@web to login and validate text content",""
